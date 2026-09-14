@@ -22,4 +22,4 @@ Comece abrindo a pasta `01-Empresa/` para entender o perfil da organização e s
 ## Ferramentas
 Excel / Google Planilhas, Word / Google Docs, Draw.io, Cisco Packet Tracer, Tinkercad e GitHub.
 
-**Última atualização:** 20/11/2026
+**Última atualização:** 13/09/2026
