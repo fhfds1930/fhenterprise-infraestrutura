@@ -17,7 +17,7 @@ Comece abrindo a pasta `01-Empresa/` para entender o perfil da organização e s
 
 ## Links técnicos
 * Tinkercad: https://encurtador.com.br/lhCj
-* Repositório Oficial: https://github.com/exemplo-fhenterprise/projeto-infraestrutura
+* Repositório Oficial: https://github.com/fhfds1930/fhenterprise-infraestrutura/tree/main
 
 ## Ferramentas
 Excel / Google Planilhas, Word / Google Docs, Draw.io, Cisco Packet Tracer, Tinkercad e GitHub.
