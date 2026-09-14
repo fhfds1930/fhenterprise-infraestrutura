@@ -16,7 +16,7 @@ Planejamento de infraestrutura computacional para a FH Enterprise, empresa espec
 Comece abrindo a pasta `01-Empresa/` para entender o perfil da organização e siga sequencialmente até a pasta `05-IoT/`. Em cada pasta, consulte o arquivo Markdown de explicação principal ou as planilhas complementares.
 
 ## Links técnicos
-* Tinkercad: https://www.tinkercad.com/things/exemplo-circuito-fhenterprise
+* Tinkercad: https://encurtador.com.br/lhCj
 * Repositório Oficial: https://github.com/exemplo-fhenterprise/projeto-infraestrutura
 
 ## Ferramentas
