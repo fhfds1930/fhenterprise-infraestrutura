@@ -23,3 +23,6 @@ Comece abrindo a pasta `01-Empresa/` para entender o perfil da organização e s
 Excel / Google Planilhas, Word / Google Docs, Draw.io, Cisco Packet Tracer, Tinkercad e GitHub.
 
 **Última atualização:** 13/09/2026
+##  - Sistemas Operacionais
+
+O projeto utiliza virtualização para gerenciar servidores, controle de acessos e backups, garantindo segurança e continuidade dos serviços.
